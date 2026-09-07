@@ -16,7 +16,8 @@
 </p>
 
 <p align="center">
-  macOS 可用 Homebrew 安装：<code>brew tap eachann1024/goose-note-app https://github.com/eachann1024/goose-note-app</code><br />
+  macOS 可用 Homebrew 安装：<code>brew trust --cask eachann1024/goose-note-app/goose-note</code><br />
+  <code>brew tap eachann1024/goose-note-app https://github.com/eachann1024/goose-note-app</code><br />
   <code>brew install --cask eachann1024/goose-note-app/goose-note</code><br />
   升级：<code>brew upgrade --cask goose-note</code>
 </p>
