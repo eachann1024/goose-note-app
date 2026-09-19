@@ -1,9 +1,9 @@
 cask "goose-note" do
   arch arm: "-arm64", intel: ""
 
-  version "9.7.6,a8284c4"
-  sha256 arm:   "8df55309a9ca2cdce48709822f663ed65a16d25d26e044fe256e6ba8a5483b51",
-         intel: "e239dfbca54538cedcfb84f19483c58e0ac1a40e13e0310cbac1bd2f8aaeb2d1"
+  version "9.8.5,6b48c6c"
+  sha256 arm:   "5c8d5c12d9a1eb3cd7812152f880bc8354328bc0531190e3cb3087fafc4087a7",
+         intel: "b3c2a548acc256fc1492e3ddfe37fc002a54299e9bbbb3f0f257b994259b902a"
 
   url "https://github.com/eachann1024/goose-note-app/releases/download/v#{version.csv.first}-#{version.csv.second}/Goose.Note-#{version.csv.first}#{arch}.dmg"
   name "Goose Note"
