@@ -11,15 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eachann1024/goose-note-app/releases/latest">下载安装包</a> ·
+  <a href="https://github.com/eachann1024/goose-notes">源码与新版本发布：eachann1024/goose-notes</a> ·
   <a href="#开始记录">开始记录</a>
 </p>
 
 <p align="center">
-  macOS 可用 Homebrew 安装：<code>brew trust --cask eachann1024/goose-note-app/goose-note</code><br />
-  <code>brew tap eachann1024/goose-note-app https://github.com/eachann1024/goose-note-app</code><br />
-  <code>brew install --cask eachann1024/goose-note-app/goose-note</code><br />
-  升级：<code>brew upgrade --cask goose-note</code>
+  旧版安装包已下架。新版本将在 <a href="https://github.com/eachann1024/goose-notes/releases">goose-notes Releases</a> 发布，本仓库不再提供安装包。
 </p>
 
 <br />
@@ -65,7 +62,7 @@
 <details>
 <summary>平台说明</summary>
 
-采用 Electron、React、TypeScript 和 BlockNote。安装包支持 macOS、Windows 和 Linux，各平台安装包可在 Releases 下载。
+采用 Electron、React、TypeScript 和 BlockNote。安装包支持 macOS、Windows 和 Linux，各平台安装包见 goose-notes 仓库的 Releases。
 
 </details>
 
@@ -80,7 +77,7 @@
 
 当前源码以 **MIT** 许可提供，允许商用、修改和再分发；请保留版权与许可声明。详见 [LICENSE](LICENSE)。
 
-第三方代码保留其原有许可和版权声明。历史安装包沿用其发布时的许可，当前许可不追溯。本项目未添加强制宣传链接或其他定制署名条款。
+第三方代码保留其原有许可和版权声明。本项目未添加强制宣传链接或其他定制署名条款。
 
 </details>
 
